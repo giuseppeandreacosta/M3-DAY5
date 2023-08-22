@@ -1,0 +1,68 @@
+.svgicon{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 48px;
+    background-color: rgba(218, 217, 217, 0.548);
+    margin: 10px;
+    position: relative;
+    top: 0;
+}
+
+.purple {
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color:rgb(116, 78, 255);
+    position: absolute;
+    bottom: 35px;
+    right: 5px;
+   
+}
+
+
+.bellicon{
+   color:rgba(12, 12, 12, 0.322)
+
+}
+
+
+
+.naviconuser {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  
+   
+}
+
+
+.imgicon {
+    position: relative;
+    top: 0;
+}
+
+.green {
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    background-color: rgb(38, 175, 38);
+    position: absolute;
+    top: 35px;
+    left: 35px;
+    
+}
+
+.jumbotron {
+    background-color: rgb(88, 33, 218);
+    background-image: url(./assets/hero-img.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 80%;
+   
+}
+
+
+
+
