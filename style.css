@@ -4,15 +4,16 @@
     font-family: 'Inter', sans-serif;
 
 }
+
 h1 {
     font-weight: 600;
-    
+
 }
 
- h2 {
+h2 {
     font-weight: 600;
     font-size: 1.3em;
-    margin-top:3.2em;
+    margin-top: 3.2em;
     margin-bottom: 1.1em;
 }
 
@@ -24,13 +25,13 @@ h3 {
 h4 {
     font-size: 1.1em;
     font-weight: 600;
-    
+
 }
 
 
 
 
-.svgicon{
+.svgicon {
     width: 50px;
     height: 50px;
     border-radius: 50%;
@@ -46,17 +47,16 @@ h4 {
     height: 15px;
     width: 15px;
     border-radius: 50%;
-    background-color:rgb(116, 78, 255);
+    background-color: rgb(116, 78, 255);
     position: absolute;
     bottom: 35px;
     right: 5px;
-   
+
 }
 
 
-.bellicon{
-   color:rgba(12, 12, 12, 0.322)
-
+.bellicon {
+    color: rgba(12, 12, 12, 0.322)
 }
 
 
@@ -65,8 +65,8 @@ h4 {
     width: 50px;
     height: 50px;
     border-radius: 50%;
-  
-   
+
+
 }
 
 
@@ -83,7 +83,7 @@ h4 {
     position: absolute;
     top: 35px;
     left: 35px;
-    
+
 }
 
 header {
@@ -103,6 +103,18 @@ header {
     width: 50px;
     border-radius: 50%;
     line-height: 40px;
+}
+
+.save-icon {
+    background-color: #fff;
+    color: #afafaf;
+}
+
+.save-icon:hover {
+    fill: #afafaf;
+    /* transition: fill 0, 8s ease-in; */
+    cursor: pointer;
+    transition-delay: 2s;
 }
 
 .arrow-left {
@@ -140,7 +152,7 @@ header {
 }
 
 .stars {
-    color:gold;
+    color: gold;
 }
 
 /* footer */
