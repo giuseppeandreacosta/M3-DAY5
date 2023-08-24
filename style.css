@@ -54,15 +54,22 @@
     
 }
 
-.jumbotron {
-    background-color: rgb(88, 33, 218);
-    background-image: url(./assets/hero-img.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: 80%;
-   
+header {
+    background-color: #754ffe;
 }
 
+.bg-green {
+    background-color: #19cb98;
+}
+
+/* Section */
 
 
+.svg-span {
+    background-color: antiquewhite;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    line-height: 40px;
+}
 
