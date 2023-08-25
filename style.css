@@ -94,6 +94,9 @@ header {
     background-color: #19cb98;
 }
 
+.aside-dropdown{
+    left: -200%;
+}
 /* Section */
 
 
